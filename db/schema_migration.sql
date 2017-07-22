@@ -1,0 +1,2 @@
+CREATE TABLE IF NOT EXISTS yankees_1920(id INTEGER PRIMARY KEY, name TEXT, date_of_birth TEXT);
+
